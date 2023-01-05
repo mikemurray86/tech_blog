@@ -1,0 +1,12 @@
+name: Build Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    steps:
+      - uses: actions/checkout@v3
+

@@ -1,0 +1,5 @@
+site_name: My Tech Docs
+docs_dir: pages
+theme:
+  name: null
+  custom_dir: 'cinder'
